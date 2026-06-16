@@ -1,0 +1,1 @@
+# Write a program to Find x^n without pow().

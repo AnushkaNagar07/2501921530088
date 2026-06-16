@@ -1,0 +1,1 @@
+# Write a program to Print factors of a number.
