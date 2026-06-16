@@ -3,4 +3,4 @@ N=int (input("Enter the number:"))
 sum=0
 for i in range(1,N+1):
   sum=sum+i
-print("The desired sum is :",N)
+print("The desired sum is :",sum)
